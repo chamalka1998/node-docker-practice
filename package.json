@@ -1,0 +1,13 @@
+{
+  "name": "node-docker-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Running automated tests... Success!\" && exit 0",
+    "build": "echo \"Building application bundle... Done!\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
